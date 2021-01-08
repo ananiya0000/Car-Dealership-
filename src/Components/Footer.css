@@ -1,0 +1,49 @@
+.footer__container {
+  background-color: #586f7c;
+  height: 38vh;
+  color: white;
+  position: relative;
+}
+.btn Button {
+  color: white;
+}
+.btn Button:hover {
+  background-color: #4e7c97;
+}
+.footer__icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.facebook__icons {
+  color: rgb(43, 135, 255);
+  padding: 0.2rem 0.7rem;
+}
+.instagram__icons {
+  color: rgb(233, 67, 191);
+  padding: 0.2rem 0.7rem;
+}
+.twitter__icons {
+  color: rgb(0, 174, 255);
+  padding: 0.2rem 0.7rem;
+}
+.footer__container > p {
+  text-align: center;
+}
+.footer__container > h1 {
+  padding-top: 0.5em;
+  text-align: center;
+}
+.copy {
+  position: absolute;
+  padding-top: 1em;
+  left: 46%;
+  bottom: 3%;
+}
+.btn {
+  text-align: center;
+  margin-top: 1rem;
+}
+.hrlooklike {
+  letter-spacing: 1mm;
+}
